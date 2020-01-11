@@ -478,7 +478,7 @@ main .contact h4 {
   main .about {
     text-align: center;
     padding: 5.5em 2em 0.1em 2em;
-    margin: 0 auto;
+    margin: -5% 2%;
     height: 100vh;
   }
   main .about h1 {
