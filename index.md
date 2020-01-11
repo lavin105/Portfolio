@@ -154,7 +154,7 @@
           <div class="photo">
             <img src="./images/gallery/lake.JPG" alt="" />
           </div>
-          <div class="photo">
+          <div class="photo-rotate">
             <img src="./images/gallery/pool.JPG" alt="" />
           </div>
         </div>
