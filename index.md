@@ -59,7 +59,7 @@
             <div class="education">
               <h3>Brandon Lavinsky</h3>
               <p>
-                I'm a Software Engineer from Southern California with a passion
+                I'm a Software Engineer with a passion
                 for web development, photography, and anything and everything
                 outdoors
               </p>
